@@ -4,8 +4,6 @@ date: 2019-02-08T16:34:12+05:30
 draft: false
 ---
 
-## Importance Of Now
-
 Has it ever occurred why people say to live in now, don't talk about future as its not in control & past is past done forever never to revisit again. The pretext
 of living in now has more to do with awareness.
 
